@@ -6,7 +6,7 @@
     "moduleResolution": "node",
     "jsx": "preserve",
     "paths": {
-      "@/*": ["src/*"]
+      "src/*": ["src/*"]
     },
     "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
   }
